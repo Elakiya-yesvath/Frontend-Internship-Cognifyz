@@ -1,0 +1,32 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fefefe;
+  padding: 30px;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  color: #2d3e50;
+}
+
+p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+}
+
+#userList {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.user {
+  background: #f0f8ff;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
